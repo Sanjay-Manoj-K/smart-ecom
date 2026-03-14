@@ -444,15 +444,15 @@ kubectl delete -f deploy/k8s-cart.yaml
 
 ### Docker Compose (services running)
 
-![Docker Compose](Screenshots/Docker compose.png)
+![Docker Compose](Screenshots/DockerCompose.png)
 
 ### Docker Containers (docker ps)
 
-![Docker PS](Screenshots/Docker ps.png)
+![Docker PS](Screenshots/DockerPs.png)
 
 ### RabbitMQ Dashboard
 
-![RabbitMQ Dashboard](Screenshots/RabbitMQ dashboard.png)
+![RabbitMQ Dashboard](Screenshots/RabbitMQ-dashboard.png)
 
 ### RabbitMQ Queue (events)
 
@@ -464,7 +464,7 @@ kubectl delete -f deploy/k8s-cart.yaml
 
 ### Inventory Update
 
-![Inventory Update](Screenshots/Inventory update.png)
+![Inventory Update](Screenshots/InventoryUpdate.png)
 
 ### Inventory Table
 
