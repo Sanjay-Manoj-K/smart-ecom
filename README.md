@@ -468,16 +468,16 @@ kubectl delete -f deploy/k8s-cart.yaml
 
 ### Inventory Table
 
-![Inventory Table](Screenshots/Inventory Table.png)
+![Inventory Table](Screenshots/InventoryTable.png)
 
 ### Add to Cart
 
-![Add to Cart](Screenshots/Add to cart.png)
+![Add to Cart](Screenshots/Add-to-cart.png)
 
 ### Payment - with Discount
 
-![Pay with Discount](Screenshots/Pay with discount.png)
+![Pay with Discount](Screenshots/Pay-with-discount.png)
 
 ### Payment - without Discount
 
-![Pay without Discount](Screenshots/Pay without Discount.png)
+![Pay without Discount](Screenshots/Pay-without-Discount.png)
