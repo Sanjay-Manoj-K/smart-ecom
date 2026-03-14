@@ -1,0 +1,13 @@
+service: discount-service
+provider:
+  name: aws
+  runtime: nodejs18.x
+plugins:
+  - serverless-offline
+functions:
+  applyDiscount:
+    handler: handler.apply
+    events:
+      - http:
+          path: apply-discount
+          method: post

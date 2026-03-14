@@ -1,0 +1,9 @@
+syntax = "proto3";
+package cart;
+
+service CartService {
+  rpc ViewCart(Empty) returns (CartItems);
+}
+
+message Empty {}
+message CartItems { repeated string items = 1; }

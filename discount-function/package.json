@@ -1,0 +1,11 @@
+{
+  "name": "discount-function",
+  "version": "1.0.0",
+  "main": "localserver.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^14.5.0"
+  }
+}
